@@ -1,0 +1,26 @@
+TL
+0 name1 BUY B $1 #445 -1
+0 name4 BUY B $2 #153 -1
+0 name5 BUY B $3 #13 -1
+0 name9 BUY B $4 #425 -1
+1 name10 BUY B $5 #458 -1
+1 name11 BUY B $6 #1256 -1
+1 name12 BUY B $7 #789 -1
+2 name13 BUY B $8 #4562 -1
+2 name14 BUY B $9 #457 -1
+2 name12 BUY B $10 #546 -1
+2 name13 BUY B $11 #456 -1
+3 name14 BUY B $12 #845 -1
+3 name15 SELL B $15 #123-1
+3 name16 SELL B $14 #321 -1
+3 name17 SELL B $13 #456 -1
+4 name2 SELL B $12 #1070 -1
+4 name3 SELL B $11 #45 -1
+4 name6 SELL B $10 #1040 -1
+4 name7 SELL B $9 #544 -1
+4 name18 SELL B $8 #45 -1
+4 name8 SELL B $7 #1400-1
+5 name19 SELL B $6 #54 -1
+5 name18 SELL B $5 #54 -1
+5 name8 SELL B $4 #35 -1
+5 name19 SELL B $3 #45 -1

@@ -1,0 +1,20 @@
+TL
+0 name BUY B $1 #100 -1
+0 name SELL B $25 #26 0
+0 name SELL B $25 #26 1
+0 name BUY B $26 #10 -1
+0 name BUY B $26 #20 -1
+1 name SELL B $25 #5 0
+1 name SELL B $27 #5 1
+1 name SELL B $28 #5 1
+1 name BUY B $27 #9 0
+2 name BUY C $1 #6 -1
+2 name BUY C $10 #5 -1
+2 name BUY C $20 #16 -1
+2 name BUY C $30 #7 -1
+2 name BUY C $40 #27 -1
+2 name SELL C $40 #6 -1
+2 name SELL C $35 #5 -1
+2 name SELL C $25 #16 -1
+2 name SELL C $15 #7 -1
+2 name SELL C $5 #27 -1
